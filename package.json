@@ -18,7 +18,7 @@
     "@trpc/next": "^10.34.0",
     "@trpc/react-query": "^10.34.0",
     "@trpc/server": "^10.34.0",
-    "google-map-react": "^2.2.1",
+    "google-maps-react-markers": "^1.4.1",
     "next": "^13.4.2",
     "next-auth": "^4.22.4",
     "react": "18.2.0",
